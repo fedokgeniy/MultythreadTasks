@@ -1,0 +1,15 @@
+D:\C# projects\classTask\bin\Debug\net9.0\classTask.exe
+D:\C# projects\classTask\bin\Debug\net9.0\classTask.deps.json
+D:\C# projects\classTask\bin\Debug\net9.0\classTask.runtimeconfig.json
+D:\C# projects\classTask\bin\Debug\net9.0\classTask.dll
+D:\C# projects\classTask\bin\Debug\net9.0\classTask.pdb
+D:\C# projects\classTask\obj\Debug\net9.0\classTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\classTask\obj\Debug\net9.0\classTask.AssemblyInfoInputs.cache
+D:\C# projects\classTask\obj\Debug\net9.0\classTask.AssemblyInfo.cs
+D:\C# projects\classTask\obj\Debug\net9.0\classTask.csproj.CoreCompileInputs.cache
+D:\C# projects\classTask\obj\Debug\net9.0\classTask.sourcelink.json
+D:\C# projects\classTask\obj\Debug\net9.0\classTask.dll
+D:\C# projects\classTask\obj\Debug\net9.0\refint\classTask.dll
+D:\C# projects\classTask\obj\Debug\net9.0\classTask.pdb
+D:\C# projects\classTask\obj\Debug\net9.0\classTask.genruntimeconfig.cache
+D:\C# projects\classTask\obj\Debug\net9.0\ref\classTask.dll
